@@ -1,4 +1,4 @@
-# Patika.dev SQL Tutorial homeworks 
+# Notes for Patika.dev SQL Tutorial:
 
 Dvdrental_Homework file for first homework
 
@@ -8,11 +8,11 @@ Dvdrental_Homework3 file for homework3
 
 
 
+[SQL tutorials and exercises ] (https://www.w3schools.com/sql/default.asp)
 
 
 
 
+# Notes for Git class:
 
-# GİT dersinden öğrendiklerim
-
-[markdown kullanım cheetsheet'i](https://commonmark.org/help/)
+[markdown usage cheetsheet](https://commonmark.org/help/)
