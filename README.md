@@ -7,8 +7,7 @@ Dvdrental_Homework2 file for  homework2
 Dvdrental_Homework3 file for homework3
 
 
-
-[SQL tutorials and exercises ] (https://www.w3schools.com/sql/default.asp)
+[SQL tutorials and exercises](https://www.w3schools.com/sql/default.asp)
 
 
 
