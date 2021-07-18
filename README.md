@@ -10,6 +10,9 @@ Dvdrental_Homework4 file for homework4
 
 Dvdrental_Homework5 file for homework5
 
+Dvdrental_Homework5 file for homework6
+
+
 [SQL tutorials and exercises](https://www.w3schools.com/sql/default.asp)
 
 
