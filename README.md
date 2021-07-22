@@ -14,6 +14,9 @@ Dvdrental_Homework6 file for homework6
 
 Dvdrental_Homework7 file for homework7
 
+Dvdrental_Homework8 file for homework8
+
+
 [SQL tutorials and exercises](https://www.w3schools.com/sql/default.asp)
 
 
